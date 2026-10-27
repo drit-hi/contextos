@@ -1,5 +1,9 @@
 # ContextOS — Personal Memory & Decision Intelligence Platform
 
+DEPLOYED LINK: https://contextosss-i2r6ssxvc-drithis-projects-ccf34a85.vercel.app/memories/new
+VIDEO URL:
+
+
 A web app for capturing, searching, and reflecting on personal notes and decisions. Ask AI-powered questions about your own saved memories.
 
 ## What it does
